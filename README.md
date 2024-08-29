@@ -19,7 +19,7 @@ ChatBot integrado com o ChatGPT sobre o jogo StardewValley.
 <br>
 
 <p align="center">
-  <img alt="Projeto ChatBot StardewValley" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto ChatBot StardewValley" src="./Assets/mockup.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
